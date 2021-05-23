@@ -1,9 +1,9 @@
 /* eslint-disable camelcase */
-export interface DbTypes {
+export interface EpisodeDB {
     id: string;
     title: string;
     members: string;
-    published_at: Date;
+    published_at: string;
     thumbnail: string;
     description: string;
     file: {
