@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Perceptron</h1>
+  <h1>Podcastr</h1>
   <img src="public/assets/demo.gif" with="800" height="400"/>
 </div>
 
@@ -19,19 +19,15 @@
 
 # :interrobang: Sobre o projeto
 
-Ao cursar a disciplina de Tópicos de inteligência Artificial, achei interessante registrar todas as implementações de diversos categorias de IA. O primeiro é uma implementação de perceptron simples desenvolvido em C para qualquer conjunto de dados, além de um ambiente de utilização mais confortável e interativo através do terminal. Escolhi a linguagem C por ser uma linguagem de baixo nível presente em diversas outras linguagens, além de me desafiar a implementar aplicações mais complexas em C e poder me aprofundar cada vez mais.
+...
 
 ## 🧑‍💻 Tecnologias utilizadas
 
-* [C](https://docs.microsoft.com/pt-br/cpp/c-language/c-language-reference?view=msvc-160#:~:text=A%20refer%C3%AAncia%20da%20linguagem%20C,para%20o%20padr%C3%A3o%20ANSI%20C.)
+* ...
 
 # :rocket: Executando a aplicação
 
 Primeiramente clone o repositório para sua maquina ou faça o 'download' em formato ZIP e descompacte. Para realizar a clonagem do repositório utilize o comando:
-
-    git clone https://github.com/PedroHenry-Santos/Podcastr.git
-
-ou
 
     git clone git@github.com:PedroHenry-Santos/Podcastr.git
 
