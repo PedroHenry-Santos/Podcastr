@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/PedroHenry-Santos/Podcastr/compare/v1.3.0...v1.4.0) (2021-05-24)
+
+
+### Features
+
+* **player:** add player functionality and refactor the player's context ([a8f4f05](https://github.com/PedroHenry-Santos/Podcastr/commit/a8f4f05c201fa5c49a2cb7af8599f77ec6f944f6))
+
 # [1.3.0](https://github.com/PedroHenry-Santos/Podcastr/compare/v1.2.0...v1.3.0) (2021-05-24)
 
 
