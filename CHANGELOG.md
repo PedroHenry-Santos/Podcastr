@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/PedroHenry-Santos/Podcastr/compare/v1.2.0...v1.3.0) (2021-05-24)
+
+
+### Features
+
+* **player:** add podcast playback by clicking the button via context api ([5d806c0](https://github.com/PedroHenry-Santos/Podcastr/commit/5d806c0a7027715451ecc78f72ce5bd0bd06d123))
+
 # [1.2.0](https://github.com/PedroHenry-Santos/Podcastr/compare/v1.1.0...v1.2.0) (2021-05-23)
 
 
